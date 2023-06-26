@@ -1,0 +1,9 @@
+Assignment - 1
+
+Using the Simple Linear Regression technique train a model that can predict the Delivery Time using the Sorting Time as the independent variable. Use various transformations and select the best one.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment - 2
+
+Using the Simple Linear Regression technique train a model that can predict the Salary using the Years of Experience as the independent variable. Use various transformations and select the best one.
